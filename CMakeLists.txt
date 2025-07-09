@@ -12,4 +12,11 @@ add_executable(untitled4 main.cpp
         codewars/find_all_occurences_of_an_element_in_an_array.c
         codewars/case_sensitive.cpp
         codewars/detect_pangram.cpp
+        codewars/int32_to_ipv4.cpp
+        codewars/matrix_addition.cpp
+        codewars/find_the_unique_number.cpp
+        codewars/find_the_parity_outlier.cpp
+        leetcode/136_single_number.cpp
+        leetcode/137_single_number_ii.cpp
+        leetcode/189_rotate_array.cpp
 )
