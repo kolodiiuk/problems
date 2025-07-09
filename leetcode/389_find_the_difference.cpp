@@ -4,16 +4,6 @@ using namespace std;
 
 class SolutionFindDifference {
 public:
-    char findTheDifference(string s, string t) {
-        for (size_t i = 0; i < s.length; i++) {
-            if (s[i] != t[i]) return s[i];
-        }
-        if (i == s.length) return t[i + 1];
-    }
-};
-
-class SolutionFindDifference {
-public:
     char findTheDifference(std::string s, std::string t) {
         char result = 0;
 
