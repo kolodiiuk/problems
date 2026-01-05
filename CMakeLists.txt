@@ -53,5 +53,4 @@ add_executable(untitled4 main.cpp
         codewars/create_phone_number.cs
         codewars/mini_string_fuck.cpp
         codewars/string_incrementer.cpp
-        codewars/exes_and_ohs.cpp
 )
