@@ -35,4 +35,8 @@ add_executable(untitled4 main.cpp
         codewars/7kyu/diagonals_sum.c
         codewars/5kyu/beeramid.cpp
         codewars/7kyu/exes_and_ohs.cpp
+        leetcode/977_squares_of_a_sorted_array.cpp
+        leetcode/100_same_tree.cpp
+        leetcode/1523_count_odd_numbers_in_an_interval_range.cpp
+        leetcode/1275_find_numbers_with_even_number_of_digits.cpp
 )
